@@ -1,4 +1,7 @@
-push:
+name: Deploy to S3
+
+on:
+  push:
     branches:
       - main
 
